@@ -3,7 +3,6 @@ DayZBattleRoyale
 
 
 DayZ Battle Royale Mod Change-log  ||  Version 0.01a (pre-alpha)
-----------------------------------------------------------------
  
 Download: Soon
  
