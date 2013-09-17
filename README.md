@@ -2,7 +2,7 @@ DayZBattleRoyale
 ================
 
 
-DayZ Battle Royale Mod Change-log 
+DayZ Battle Royale Mod Rolling Change-log.
  
 Download: Soon
  
