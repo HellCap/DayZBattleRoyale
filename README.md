@@ -14,11 +14,11 @@ My thanks to rocket, R4Z0R49 and the DayZDev team for the game, Gamerz @ Numeric
  
 ================================================================
  
-Changes Version 0.01c:
+Changes Version 0.2.1:
 
 Changes:
  
-* [NEW] - If player leaves the last zone they are now killed instead of infected.
+* [NEW] - If player leaves the final play zone they are now killed instead of infected.
 * [NEW] - Added new ring of ramparts around the spawn to help the endgame.
 * [NEW] - Added kill zones at start-time to stop players starting early.
 * [NEW] - Play now locked to 1st Person.
@@ -36,13 +36,14 @@ Changes:
 * [UPDATED] - Increased total zombies limit.
 
 * [UPDATED] - Re-adjusted centre encampment for better cover possibilities .
+* [UPDATED] - Updated mod versioning.
 
 
 
 
 ================================================================
  
-Changes Version 0.01b:
+Changes Version 0.1.1:
 
 Changes:
  
@@ -58,14 +59,14 @@ Changes:
 * [FIXED] - Infection outside final zones now works.
 * [FIXED] - Bombing timing now much quicker. Most areas will get hit at least once now.
 
-* [UPDATED] - Bomb strikes upped from 20 > 40 .
+* [UPDATED] - Rounds per bomb strike upped from 20 > 40.
 
 
  
  
 ================================================================
  
-Changes Version 0.01a (pre-alpha):
+Changes Version 0.1.0 (pre-alpha):
  
 * [NEW] - Server-side game timer. (I like sleep, but not BIS sleep.)
 * [NEW] - Player messages displaying correctly.
