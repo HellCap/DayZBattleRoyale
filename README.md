@@ -19,18 +19,24 @@ Changes Version 0.01c:
 Changes:
  
 * [NEW] - If player leaves the last zone they are now killed instead of infected.
+* [NEW] - Added new ring of ramparts around the spawn to help the endgame.
+* [NEW] - Added kill zones at start-time to stop players starting early.
+* [NEW] - Play now locked to 1st Person.
 
 * [UPDATED] - Vehicle spawn positions now random from a choice of 6 differing location maps.
-* [UPDATED] - Vehicle maps now setup as 3 normal, 2 light and 1 empty.
+* [UPDATED] - Vehicle maps now choose from 3 Normal, 2 Light and 1 Empty.
 * [UPDATED] - Better player lock system at start.
 * [UPDATED] - If outside a restriction zone, infection is now constant.
 * [UPDATED] - 4 final restriction zones 2000/1000/500/150m (Previously 3).
 * [UPDATED] - Final zone expanded slightly from 100m > 150m
 * [UPDATED] - Bombing runs now start earlier.
-* [UPDATED] - Play now locked to 1st Person.
+
 * [UPDATED] - Increased maximum zombie spawns per player from 8 > 10
 * [UPDATED] - Increased zombie infection rate.
 * [UPDATED] - Increased total zombies limit.
+
+* [UPDATED] - Re-adjusted centre encampment for better cover possibilities .
+
 
 
 
