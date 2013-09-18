@@ -14,6 +14,21 @@ My thanks to rocket, R4Z0R49 and the DayZDev team for the game, Gamerz @ Numeric
  
 ================================================================
  
+Changes Version 0.3.1:
+
+Changes:
+ 
+* [NEW] - A.C.R.E added.
+* [NEW] - {Is Winner} notification added.
+* [NEW] - Added compass to player inventory on start.
+
+* [UPDATED] - Starting timers now finished, but need testing.
+
+* [FIXED] - Final restriction zones showing again.
+
+
+================================================================
+ 
 Changes Version 0.2.1:
 
 Changes:
@@ -37,6 +52,8 @@ Changes:
 
 * [UPDATED] - Re-adjusted centre encampment for better cover possibilities .
 * [UPDATED] - Updated mod versioning.
+
+* [FIXED] - In game time now the same for all players.
 
 
 
